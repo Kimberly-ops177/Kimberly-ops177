@@ -17,11 +17,15 @@
 
 > *Full Stack Developer | DevOps Engineer in Progress | Data Engineer | I build fast, ship often, and break things on purpose.*
 
-- 🔨 Currently building **[BuildOrDie](https://github.com/Kimberly-ops177)** — a developer accountability platform with 8-week MVP roadmap
-- 📚 Grinding through **ALX Data Engineering & Data Analysis** tracks simultaneously
-- ☁️ Actively targeting **DevOps & Cloud Engineering** roles
-- 🎓 BSc Nutraceutical Science & Tech + Full Stack Cert (**Power Learn Project**)
-- ⚡ Fun fact: I use external deadlines as fuel. Pressure = output.
+## 👩🏾‍💻 
+
+- I build production-ready web apps, containerize things with Docker, automate deployments with GitHub Actions, and dig into data pipelines at ALX.
+
+- 🔨 Currently: **[BuildOrDie](https://github.com/Kimberly-ops177)** — accountability platform for devs who actually ship
+- ☁️ Next: **DevOps & Cloud Engineering** (Docker · CI/CD · Linux · DigitalOcean)
+- 📊 Also: **ALX Data Engineering + Analysis** tracks (yes, both)
+- 🌐 **[kimberlygithinji.site](https://www.kimberlygithinji.site)**
+- ⚡ Fun fact: `sudo chmod` fixed it. Eventually.
 
 ---
 

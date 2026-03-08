@@ -81,10 +81,9 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Kimberly-ops177&theme=dark&hide_border=true&ring=F97316&fire=F97316&currStreakLabel=F97316)](https://git.io/streak-stats)
 
-![Kimberly's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kimberly-ops177&show_icons=true&theme=dark&hide_border=true&icon_color=F97316&title_color=F97316)
+![Kimberly's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kimberly-ops177&show_icons=true&theme=dark&hide_border=true&icon_color=F97316&title_color=F97316&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimberly-ops177&layout=compact&theme=dark&hide_border=true&title_color=F97316)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimberly-ops177&layout=compact&theme=dark&hide_border=true&title_color=F97316&langs_count=8)
 </div>
 
 ---
